@@ -1,2 +1,2 @@
-# Digital-Clock-Html-Css-Js
+# DigitalClock-Html-Css-Js
 Digital clock
